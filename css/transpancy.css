@@ -19,18 +19,3 @@
 background: rgba(255,255,255, .0);
 }
 
-
-/* 选择链接标签时的鼠标指针 */
-a:hover {
-	cursor: url(' /img/normal.cur'), auto;
-}
-
-body {
-    cursor: url(' /img/pointer.cur'),
-        default;
-}
-
-img {
-    cursor: url(' /img/pointer.cur'),
-        default;
-}
