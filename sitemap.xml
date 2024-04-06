@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://jiangnanpsalter.com/tags/Domain/</loc>
+    <loc>http://jiangnanpsalter.com/tags/Tencent/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -331,7 +331,7 @@
   </url>
   
   <url>
-    <loc>http://jiangnanpsalter.com/tags/Tencent/</loc>
+    <loc>http://jiangnanpsalter.com/tags/Domain/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -347,14 +347,21 @@
 
   
   <url>
-    <loc>http://jiangnanpsalter.com/categories/%E5%8D%9A%E4%B8%BB%E7%9A%84%E8%A7%82%E7%82%B9%E5%92%8C%E6%80%81%E5%BA%A6/</loc>
+    <loc>http://jiangnanpsalter.com/categories/%E9%80%9A%E7%9F%A5%E4%B8%8E%E5%85%AC%E7%A4%BA/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://jiangnanpsalter.com/categories/%E9%80%9A%E7%9F%A5%E4%B8%8E%E5%85%AC%E7%A4%BA/</loc>
+    <loc>http://jiangnanpsalter.com/categories/%E7%BC%96%E7%A8%8B-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiangnanpsalter.com/categories/%E5%8D%9A%E4%B8%BB%E7%9A%84%E8%A7%82%E7%82%B9%E5%92%8C%E6%80%81%E5%BA%A6/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,13 +383,6 @@
   
   <url>
     <loc>http://jiangnanpsalter.com/categories/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E3%80%81%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiangnanpsalter.com/categories/%E7%BC%96%E7%A8%8B-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
